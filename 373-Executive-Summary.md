@@ -12,7 +12,7 @@ Student Development Team:
 
         
 ## Background
-SwiftCeipt was started in 2013 in the Oakland district of Pittsburgh as a tech solution to managing receipts and finances. People have to deal with receipts coming from various vendors all the time. These receipts usually appear in different format, e.g. paper or email. In most cases, these receipts are unruly and unmanageable due to them not being sorted in any logical order. With SwiftCeipt, a user no longer has to face these issues, as their receipts are easily itemized, stored, and made accessible via an iOS app. These features are summarized simply in the company’s mantra: Manage receipts effortlessly forever.
+SwiftCeipt was started in 2013 in the Oakland district of Pittsburgh as a tech solution to managing receipts and finances. People have to deal with receipts coming from various vendors all the time. These receipts usually appear in different format, e.g. paper or email. In most cases, these receipts are unruly and unmanageable due to them not being sorted in any logical order. With SwiftCeipt, a user no longer has to face these issues, as their receipts are easily itemized, stored, and made accessible via an iOS app. These features are summarized simply in the company’s mantra: *Manage receipts effortlessly forever.*
 
 ## Project Description
 
@@ -36,7 +36,7 @@ In our final deliverables, we will include source code, documentation for setup,
 
 ### Recommendations
 
-We recommend our client to enhance testing for their backend database, especially for the newly created functionalities--the folder feature. A well-tested backend will make the web application more solid and reliable. We also recommend our client to implement a user tutorial after they are done with the Google login feature. This will be user-friendlier for first time users. Lastly, we highly recommend our client to conduct a full user test to get feedback from different user groups. 
+We recommend our client to enhance testing for their backend database, especially for the newly created functionalities. A well-tested backend will make the web application more solid and reliable. We also recommend our client to implement a user tutorial after they are done with the Google login feature. This will be user-friendlier for first time users. Lastly, we highly recommend our client to conduct a full user test to get feedback from different user groups. 
 
 ## Student Development Team
 
