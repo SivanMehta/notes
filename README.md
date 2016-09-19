@@ -7,3 +7,4 @@ Some assorted correspondence I have written to people that are the closest thing
 # Non-Academic
 - [Welcome Class of 2020](https://github.com/SivanMehta/notes/blob/master/non-academic/welcome-freshman-2016.md)
 - [TOC 2016 Prep Session](https://github.com/SivanMehta/notes/blob/master/non-academic/toc-2016.md)
+- [9-18-2016 Recap Email](https://github.com/SivanMehta/notes/blob/master/non-academic/9-18-recap-email.md)
